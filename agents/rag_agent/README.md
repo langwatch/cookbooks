@@ -1,4 +1,4 @@
-# RAG Agent: Systematic Improvement Cookbook
+# Systematically Improve Your RAG Agents
 
 This directory contains a systematic approach to building, evaluating, and improving Retrieval-Augmented Generation (RAG) agents. The notebooks guide you through the process of creating evaluation datasets, implementing RAG agents, and systematically measuring and improving their performance.
 
