@@ -1,4 +1,4 @@
-# AI Agent Improvement Cookbooks
+# Systematically Improve Your AI Agents
 
 A collection of systematic approaches to building, evaluating, and improving AI agents. This repository contains practical cookbooks that guide you through the process of creating robust AI agents and systematically measuring and improving their performance.
 
