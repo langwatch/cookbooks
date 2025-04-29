@@ -1,0 +1,449 @@
+[
+    {
+        "category": "Software & Licenses",
+        "sample_transactions": [
+            "Adobe Creative Cloud Annual Subscription",
+            "Microsoft 365 Business Premium",
+            "Atlassian JIRA License",
+            "Zoom Enterprise Plan",
+            "AutoCAD Software License"
+        ],
+        "departments": [
+            "Engineering",
+            "Marketing",
+            "HR",
+            "Finance",
+            "Legal",
+            "IT Operations",
+            "Research & Development"
+        ]
+    },
+    {
+        "category": "Cloud Infrastructure & Hosting",
+        "sample_transactions": [
+            "AWS Monthly Usage",
+            "Google Cloud Platform Services",
+            "Azure Virtual Machines",
+            "Cloudflare Enterprise Plan",
+            "DigitalOcean Droplets"
+        ],
+        "departments": [
+            "Engineering",
+            "IT Operations",
+            "Research & Development"
+        ]
+    },
+    {
+        "category": "Hardware & Equipment",
+        "sample_transactions": [
+            "Dell XPS 15 Laptop",
+            "27-inch 4K Monitors",
+            "iPhone 14 Pro - Sales Team",
+            "Logitech MX Master Mouse",
+            "Server Hardware Upgrade"
+        ],
+        "departments": [
+            "Engineering",
+            "Sales",
+            "Marketing",
+            "IT Operations",
+            "Research & Development"
+        ]
+    },
+    {
+        "category": "Travel: Ground Transport",
+        "sample_transactions": [
+            "Uber to Client Meeting",
+            "Airport Parking Fee",
+            "Train Ticket to Conference",
+            "Car Rental - Sales Trip",
+            "Taxi from Airport"
+        ],
+        "departments": [
+            "Sales",
+            "Executive",
+            "Marketing",
+            "HR"
+        ]
+    },
+    {
+        "category": "Travel: Airfare",
+        "sample_transactions": [
+            "United Airlines - SF to NYC",
+            "Delta Business Class - International",
+            "Southwest - Team Retreat Flights",
+            "Airport Lounge Access",
+            "Flight Change Fee"
+        ],
+        "departments": [
+            "Sales",
+            "Executive",
+            "Marketing",
+            "HR"
+        ]
+    },
+    {
+        "category": "Travel: Accommodation",
+        "sample_transactions": [
+            "Marriott Hotel - Tech Conference",
+            "Airbnb - Team Offsite",
+            "Hilton - Client Visit",
+            "Hotel Cancellation Fee",
+            "Extended Stay - Project Implementation"
+        ],
+        "departments": [
+            "Sales",
+            "Executive",
+            "Marketing",
+            "HR"
+        ]
+    },
+    {
+        "category": "Travel: Meals & Entertainment",
+        "sample_transactions": [
+            "Team Dinner - Project Completion",
+            "Client Lunch Meeting",
+            "Airport Meals",
+            "Conference Networking Event",
+            "Business Development Dinner"
+        ],
+        "departments": [
+            "Sales",
+            "Executive",
+            "Marketing",
+            "HR"
+        ]
+    },
+    {
+        "category": "Office Supplies & Stationery",
+        "sample_transactions": [
+            "Printer Paper Bulk Order",
+            "Office Desk Organization",
+            "Whiteboard Markers",
+            "Business Cards Printing",
+            "Filing Supplies"
+        ],
+        "departments": [
+            "Office Administration",
+            "All Departments"
+        ]
+    },
+    {
+        "category": "Professional Services",
+        "sample_transactions": [
+            "Legal Consultation",
+            "Annual Audit Fees",
+            "Tax Advisory Services",
+            "Patent Filing Fees",
+            "HR Consulting"
+        ],
+        "departments": [
+            "Legal",
+            "Finance",
+            "HR",
+            "Executive"
+        ]
+    },
+    {
+        "category": "Employee Training & Development",
+        "sample_transactions": [
+            "Udemy Business Subscription",
+            "Conference Tickets",
+            "Technical Certification Fees",
+            "Team Workshop Facilitator",
+            "Leadership Training Program"
+        ],
+        "departments": [
+            "HR",
+            "Sales",
+            "Executive",
+            "Marketing",
+            "Engineering",
+            "IT Operations",
+            "Legal",
+            "Product"
+        ]
+    },
+    {
+        "category": "Advertising & Marketing",
+        "sample_transactions": [
+            "Google Ads Campaign",
+            "LinkedIn Premium Advertising",
+            "Marketing Video Production",
+            "Trade Show Booth",
+            "Social Media Management Tools"
+        ],
+        "departments": [
+            "Marketing",
+            "Sales"
+        ]
+    },
+    {
+        "category": "Telecommunications",
+        "sample_transactions": [
+            "Company Mobile Plans",
+            "VoIP Phone System",
+            "Conference Call Service",
+            "International Calling Cards",
+            "Business Internet Package"
+        ],
+        "departments": [
+            "IT Operations",
+            "Sales",
+            "Customer Support"
+        ]
+    },
+    {
+        "category": "Insurance",
+        "sample_transactions": [
+            "Cyber Insurance Premium",
+            "Professional Liability Insurance",
+            "Office Contents Insurance",
+            "Business Travel Insurance",
+            "Workers Compensation Insurance"
+        ],
+        "departments": [
+            "Finance",
+            "Legal",
+            "HR"
+        ]
+    },
+    {
+        "category": "Bank & Transaction Fees",
+        "sample_transactions": [
+            "Wire Transfer Fee - Payroll",
+            "Monthly Account Maintenance",
+            "Overdraft Protection Fee",
+            "Bank Statement Fees",
+            "Corporate Card Annual Fees",
+            "International Transfer Fees - Vendors",
+            "Check Processing Fees",
+            "Bank Service Charges"
+        ],
+        "departments": [
+            "Finance"
+        ]
+    },
+    {
+        "category": "Customer Success & Support Infrastructure",
+        "sample_transactions": [
+            "Zendesk Enterprise Subscription",
+            "Intercom Annual License",
+            "Customer Success Platform - Gainsight",
+            "Knowledge Base Software License",
+            "Support Ticket Analytics Platform",
+            "Customer Training LMS Subscription",
+            "Support Chat Integration Tools",
+            "Customer Feedback Management System"
+        ],
+        "departments": [
+            "Customer Success",
+            "Customer Support",
+            "Sales",
+            "Product",
+            "IT Operations"
+        ]
+    },
+    {
+        "category": "Subscription & Revenue Infrastructure",
+        "sample_transactions": [
+            "Stripe Connect Platform Fee",
+            "Recurly Subscription Management",
+            "Revenue Recognition Software",
+            "Dunning Management System",
+            "Customer Billing Portal License",
+            "Quote-to-Cash Platform",
+            "SaaS Analytics Platform",
+            "Revenue Forecasting Tools"
+        ],
+        "departments": [
+            "Finance",
+            "Engineering",
+            "IT Operations",
+            "Sales"
+        ]
+    },
+    {
+        "category": "Office Rent & Utilities",
+        "sample_transactions": [
+            "Monthly Office Rent",
+            "Electricity Bill",
+            "Water & Sewage",
+            "Building Maintenance Fee",
+            "Security System Monthly Fee"
+        ],
+        "departments": [
+            "Office Administration",
+            "Finance"
+        ]
+    },
+    {
+        "category": "IT Support & Maintenance",
+        "sample_transactions": [
+            "IT Help Desk Service",
+            "Network Maintenance",
+            "Hardware Repair",
+            "System Updates",
+            "Tech Support Subscription"
+        ],
+        "departments": [
+            "IT Operations"
+        ]
+    },
+    {
+        "category": "Cybersecurity Services",
+        "sample_transactions": [
+            "Antivirus Software",
+            "VPN Service",
+            "Security Audit",
+            "Penetration Testing",
+            "Security Training Platform"
+        ],
+        "departments": [
+            "IT Operations",
+            "Engineering",
+            "Information Security"
+        ]
+    },
+    {
+        "category": "Employee Benefits & Perks",
+        "sample_transactions": [
+            "Health Insurance Premium",
+            "Office Snacks & Beverages",
+            "Gym Membership Reimbursement",
+            "Team Building Event",
+            "Mental Health App Subscription"
+        ],
+        "departments": [
+            "HR",
+            "Office Administration"
+        ]
+    },
+    {
+        "category": "Human Resource",
+        "sample_transactions": [
+            "Job Board Posting",
+            "Recruitment Agency Fee",
+            "Background Check Service",
+            "Applicant Tracking System",
+            "Employee Onboarding Platform"
+        ],
+        "departments": [
+            "HR",
+            "Executive",
+            "Engineering",
+            "Legal",
+            "Marketing",
+            "Product",
+            "Sales"
+        ]
+    },
+    {
+        "category": "Conference & Event Fees",
+        "sample_transactions": [
+            "Tech Conference Registration",
+            "Booth Space Rental",
+            "Event Sponsorship",
+            "Workshop Materials",
+            "Networking Event Tickets"
+        ],
+        "departments": [
+            "Marketing",
+            "Sales",
+            "Engineering",
+            "HR",
+            "Executive"
+        ]
+    },
+    {
+        "category": "Subscriptions & Memberships",
+        "sample_transactions": [
+            "Bloomberg Terminal",
+            "Thomson Reuters Eikon",
+            "Harvard Business Review Enterprise",
+            "World Economic Forum Membership",
+            "Salesforce Enterprise License",
+            "LinkedIn Sales Navigator",
+            "ZoomInfo Professional",
+            "Hootsuite Enterprise",
+            "Mailchimp Premium",
+            "SEMrush Business",
+            "AWS Professional Support Plan",
+            "IEEE Membership",
+            "ACM Digital Library Access",
+            "Pluralsight Team License"
+        ],
+        "departments": [
+            "Engineering",
+            "Marketing",
+            "Sales",
+            "Legal",
+            "Finance",
+            "Executive"
+        ]
+    },
+    {
+        "category": "Office Equipment Maintenance",
+        "sample_transactions": [
+            "Printer Maintenance",
+            "Coffee Machine Service",
+            "HVAC Maintenance",
+            "Office Furniture Repair",
+            "Equipment Calibration"
+        ],
+        "departments": [
+            "Office Administration",
+            "IT Operations"
+        ]
+    },
+    {
+        "category": "Data Services & Analytics",
+        "sample_transactions": [
+            "Data Warehousing Service",
+            "Analytics Platform Subscription",
+            "Market Research Reports",
+            "Data Processing Service",
+            "Business Intelligence Tools"
+        ],
+        "departments": [
+            "Engineering",
+            "Marketing",
+            "Finance",
+            "Research & Development",
+            "Sales"
+        ]
+    },
+    {
+        "category": "Internet & Network Services",
+        "sample_transactions": [
+            "Fiber Internet Service",
+            "Network Equipment Lease",
+            "CDN Services",
+            "Domain Name Registration",
+            "SSL Certificates"
+        ],
+        "departments": [
+            "IT Operations",
+            "Engineering",
+            "Product"
+        ]
+    },
+    {
+        "category": "Regulatory & Compliance Fees",
+        "sample_transactions": [
+            "Annual Business License Renewal - State",
+            "SEC Filing Fee",
+            "Data Protection Registration - GDPR",
+            "Export License - Technology Products",
+            "Financial Services Authority Annual Fee",
+            "Corporate Entity Registration Renewal",
+            "Local Business Permit - City",
+            "Industry Regulatory Compliance Fee"
+        ],
+        "departments": [
+            "Legal",
+            "Finance",
+            "Compliance"
+        ]
+    }
+]
