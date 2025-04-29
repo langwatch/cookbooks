@@ -1,0 +1,593 @@
+{
+    "taxonomy_map": {
+        "Women": {
+            "Tops": {
+                "product_type": [
+                    "T-Shirts",
+                    "Blouses",
+                    "Sweaters",
+                    "Cardigans",
+                    "Tank Tops",
+                    "Hoodies",
+                    "Sweatshirts"
+                ],
+                "attributes": {
+                    "Sleeve Length": [
+                        "Sleeveless",
+                        "Short Sleeve",
+                        "3/4 Sleeve",
+                        "Long Sleeve"
+                    ],
+                    "Neckline": [
+                        "Crew Neck",
+                        "V-Neck",
+                        "Turtleneck",
+                        "Scoop Neck",
+                        "Cowl Neck"
+                    ],
+                    "Fit": [
+                        "Regular",
+                        "Slim",
+                        "Oversized",
+                        "Cropped"
+                    ]
+                }
+            },
+            "Bottoms": {
+                "product_type": [
+                    "Pants",
+                    "Jeans",
+                    "Shorts",
+                    "Skirts",
+                    "Leggings"
+                ],
+                "attributes": {
+                    "Rise": [
+                        "Low Rise",
+                        "Mid Rise",
+                        "High Rise"
+                    ],
+                    "Length": [
+                        "Mini",
+                        "Knee Length",
+                        "Midi",
+                        "Maxi",
+                        "Cropped",
+                        "Full Length"
+                    ],
+                    "Fit": [
+                        "Skinny",
+                        "Straight",
+                        "Wide Leg",
+                        "Bootcut",
+                        "Relaxed"
+                    ]
+                }
+            },
+            "Dresses": {
+                "product_type": [
+                    "Casual Dresses",
+                    "Formal Dresses",
+                    "Party Dresses",
+                    "Maxi Dresses",
+                    "Mini Dresses"
+                ],
+                "attributes": {
+                    "Sleeve Length": [
+                        "Sleeveless",
+                        "Short Sleeve",
+                        "Long Sleeve"
+                    ],
+                    "Silhouette": [
+                        "A-Line",
+                        "Bodycon",
+                        "Shift",
+                        "Wrap",
+                        "Empire Waist"
+                    ]
+                }
+            },
+            "Outerwear": {
+                "product_type": [
+                    "Jackets",
+                    "Coats",
+                    "Blazers",
+                    "Vests"
+                ],
+                "attributes": {
+                    "Style": [
+                        "Bomber",
+                        "Denim",
+                        "Leather",
+                        "Puffer",
+                        "Trench"
+                    ],
+                    "Length": [
+                        "Cropped",
+                        "Regular",
+                        "Long"
+                    ]
+                }
+            }
+        },
+        "Men": {
+            "Tops": {
+                "product_type": [
+                    "T-Shirts",
+                    "Polo Shirts",
+                    "Dress Shirts",
+                    "Sweaters",
+                    "Hoodies",
+                    "Sweatshirts"
+                ],
+                "attributes": {
+                    "Sleeve Length": [
+                        "Short Sleeve",
+                        "Long Sleeve"
+                    ],
+                    "Neckline": [
+                        "Crew Neck",
+                        "V-Neck",
+                        "Henley",
+                        "Collar"
+                    ],
+                    "Fit": [
+                        "Regular",
+                        "Slim",
+                        "Relaxed"
+                    ]
+                }
+            },
+            "Bottoms": {
+                "product_type": [
+                    "Pants",
+                    "Jeans",
+                    "Shorts",
+                    "Chinos"
+                ],
+                "attributes": {
+                    "Rise": [
+                        "Low Rise",
+                        "Mid Rise",
+                        "High Rise"
+                    ],
+                    "Fit": [
+                        "Skinny",
+                        "Straight",
+                        "Regular",
+                        "Relaxed",
+                        "Athletic"
+                    ],
+                    "Length": [
+                        "Short",
+                        "Regular",
+                        "Long"
+                    ]
+                }
+            },
+            "Outerwear": {
+                "product_type": [
+                    "Jackets",
+                    "Coats",
+                    "Blazers",
+                    "Vests"
+                ],
+                "attributes": {
+                    "Style": [
+                        "Bomber",
+                        "Denim",
+                        "Leather",
+                        "Puffer",
+                        "Sports"
+                    ],
+                    "Length": [
+                        "Regular",
+                        "Long"
+                    ]
+                }
+            }
+        },
+        "Unisex": {
+            "Activewear": {
+                "product_type": [
+                    "Athletic Shirts",
+                    "Sports Bras",
+                    "Athletic Shorts",
+                    "Athletic Pants",
+                    "Running Jackets"
+                ],
+                "attributes": {
+                    "Activity": [
+                        "Running",
+                        "Yoga",
+                        "Training",
+                        "Basketball",
+                        "Tennis"
+                    ],
+                    "Features": [
+                        "Moisture Wicking",
+                        "Breathable",
+                        "Compression",
+                        "UV Protection"
+                    ]
+                }
+            }
+        }
+    },
+    "occasions": [
+        "Everyday Wear",
+        "Casual Outings",
+        "Office Wear",
+        "Business Casual",
+        "Workwear",
+        "Semi-Formal Events",
+        "Formal Events",
+        "Occasionwear",
+        "Partywear",
+        "Club Nights",
+        "Dinner Dates",
+        "Wedding Guest",
+        "Prom",
+        "Evening Wear",
+        "Smart Casual",
+        "Beachwear",
+        "Activewear",
+        "Sportswear",
+        "Loungewear",
+        "Travel"
+    ],
+    "materials": [
+        "Cotton",
+        "Polyester",
+        "Wool",
+        "Linen",
+        "Silk",
+        "Denim",
+        "Leather",
+        "Spandex",
+        "Modal",
+        "Cashmere"
+    ],
+    "common_attributes": {
+        "Size": [
+            "XXS",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+        ],
+        "Color": [
+            "Black",
+            "White",
+            "Gray",
+            "Navy",
+            "Blue",
+            "Red",
+            "Green",
+            "Yellow",
+            "Purple",
+            "Pink",
+            "Brown",
+            "Beige"
+        ],
+        "Material": [
+            "Cotton",
+            "Polyester",
+            "Wool",
+            "Linen",
+            "Silk",
+            "Denim",
+            "Leather",
+            "Spandex",
+            "Modal",
+            "Cashmere"
+        ],
+        "Pattern": [
+            "Solid",
+            "Striped",
+            "Plaid",
+            "Floral",
+            "Polka Dot",
+            "Geometric",
+            "Animal Print",
+            "Camouflage"
+        ],
+        "Occasion": [
+            "Everyday Wear",
+            "Casual Outings",
+            "Office Wear",
+            "Business Casual",
+            "Workwear",
+            "Semi-Formal Events",
+            "Formal Events",
+            "Occasionwear",
+            "Partywear",
+            "Club Nights",
+            "Dinner Dates",
+            "Wedding Guest",
+            "Prom",
+            "Evening Wear",
+            "Smart Casual",
+            "Beachwear",
+            "Activewear",
+            "Sportswear",
+            "Loungewear",
+            "Travel"
+        ]
+    },
+    "taxonomy": [
+        {
+            "name": "Women",
+            "subcategories": [
+                {
+                    "name": "Tops",
+                    "types": [
+                        "T-Shirts",
+                        "Blouses",
+                        "Sweaters",
+                        "Cardigans",
+                        "Tank Tops",
+                        "Hoodies",
+                        "Sweatshirts"
+                    ],
+                    "attributes": [
+                        {
+                            "Sleeve Length": [
+                                "Sleeveless",
+                                "Short Sleeve",
+                                "3/4 Sleeve",
+                                "Long Sleeve"
+                            ]
+                        },
+                        {
+                            "Neckline": [
+                                "Crew Neck",
+                                "V-Neck",
+                                "Turtleneck",
+                                "Scoop Neck",
+                                "Cowl Neck"
+                            ]
+                        },
+                        {
+                            "Fit": [
+                                "Regular",
+                                "Slim",
+                                "Oversized",
+                                "Cropped"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bottoms",
+                    "types": [
+                        "Pants",
+                        "Jeans",
+                        "Shorts",
+                        "Skirts",
+                        "Leggings"
+                    ],
+                    "attributes": [
+                        {
+                            "Rise": [
+                                "Low Rise",
+                                "Mid Rise",
+                                "High Rise"
+                            ]
+                        },
+                        {
+                            "Length": [
+                                "Mini",
+                                "Knee Length",
+                                "Midi",
+                                "Maxi",
+                                "Cropped",
+                                "Full Length"
+                            ]
+                        },
+                        {
+                            "Fit": [
+                                "Skinny",
+                                "Straight",
+                                "Wide Leg",
+                                "Bootcut",
+                                "Relaxed"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Dresses",
+                    "types": [
+                        "Casual Dresses",
+                        "Formal Dresses",
+                        "Party Dresses",
+                        "Maxi Dresses",
+                        "Mini Dresses"
+                    ],
+                    "attributes": [
+                        {
+                            "Sleeve Length": [
+                                "Sleeveless",
+                                "Short Sleeve",
+                                "Long Sleeve"
+                            ]
+                        },
+                        {
+                            "Silhouette": [
+                                "A-Line",
+                                "Bodycon",
+                                "Shift",
+                                "Wrap",
+                                "Empire Waist"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Outerwear",
+                    "types": [
+                        "Jackets",
+                        "Coats",
+                        "Blazers",
+                        "Vests"
+                    ],
+                    "attributes": [
+                        {
+                            "Style": [
+                                "Bomber",
+                                "Denim",
+                                "Leather",
+                                "Puffer",
+                                "Trench"
+                            ]
+                        },
+                        {
+                            "Length": [
+                                "Cropped",
+                                "Regular",
+                                "Long"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Men",
+            "subcategories": [
+                {
+                    "name": "Tops",
+                    "types": [
+                        "T-Shirts",
+                        "Polo Shirts",
+                        "Dress Shirts",
+                        "Sweaters",
+                        "Hoodies",
+                        "Sweatshirts"
+                    ],
+                    "attributes": [
+                        {
+                            "Sleeve Length": [
+                                "Short Sleeve",
+                                "Long Sleeve"
+                            ]
+                        },
+                        {
+                            "Neckline": [
+                                "Crew Neck",
+                                "V-Neck",
+                                "Henley",
+                                "Collar"
+                            ]
+                        },
+                        {
+                            "Fit": [
+                                "Regular",
+                                "Slim",
+                                "Relaxed"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Bottoms",
+                    "types": [
+                        "Pants",
+                        "Jeans",
+                        "Shorts",
+                        "Chinos"
+                    ],
+                    "attributes": [
+                        {
+                            "Rise": [
+                                "Low Rise",
+                                "Mid Rise",
+                                "High Rise"
+                            ]
+                        },
+                        {
+                            "Fit": [
+                                "Skinny",
+                                "Straight",
+                                "Regular",
+                                "Relaxed",
+                                "Athletic"
+                            ]
+                        },
+                        {
+                            "Length": [
+                                "Short",
+                                "Regular",
+                                "Long"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Outerwear",
+                    "types": [
+                        "Jackets",
+                        "Coats",
+                        "Blazers",
+                        "Vests"
+                    ],
+                    "attributes": [
+                        {
+                            "Style": [
+                                "Bomber",
+                                "Denim",
+                                "Leather",
+                                "Puffer",
+                                "Sports"
+                            ]
+                        },
+                        {
+                            "Length": [
+                                "Regular",
+                                "Long"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Unisex",
+            "subcategories": [
+                {
+                    "name": "Activewear",
+                    "types": [
+                        "Athletic Shirts",
+                        "Sports Bras",
+                        "Athletic Shorts",
+                        "Athletic Pants",
+                        "Running Jackets"
+                    ],
+                    "attributes": [
+                        {
+                            "Activity": [
+                                "Running",
+                                "Yoga",
+                                "Training",
+                                "Basketball",
+                                "Tennis"
+                            ]
+                        },
+                        {
+                            "Features": [
+                                "Moisture Wicking",
+                                "Breathable",
+                                "Compression",
+                                "UV Protection"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
