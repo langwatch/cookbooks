@@ -1,4 +1,4 @@
-# AI Application Improvement Cookbooks
+# AI Evaluations Cookbooks
 
 A collection of practical notebooks demonstrating systematic approaches to building, evaluating, and improving AI applications. These cookbooks provide hands-on guidance for developing more effective AI systems through data-driven methodologies.
 
@@ -7,25 +7,28 @@ A collection of practical notebooks demonstrating systematic approaches to build
 Building effective AI applications requires more than just connecting to the latest LLM API. This repository provides structured approaches to developing systems that are reliable, efficient, and continuously improving. Each notebook in this collection focuses on a specific technique and walks through a methodical process for:
 
 1. **Establishing evaluation frameworks** - Creating robust metrics to measure performance
-2. **Implementing proven techniques** - Building on established best practices
-3. **Systematic improvement** - Using data-driven approaches to enhance capabilities
-4. **Performance visualization** - Tracking improvements and identifying bottlenecks
+2. **Systematic improvement** - Using data-driven approaches to enhance capabilities
+3. **Performance visualization** - Tracking improvements and identifying bottlenecks
 
 ## Notebooks
 
-### [Fine-Tuning Embedding Models](/notebooks/finetune-embedding-models.ipynb)
-Learn how to fine-tune embedding models to significantly improve retrieval performance. This notebook demonstrates how to:
-- Generate synthetic training data based on real-world patterns
-- Fine-tune embedding models using triplet loss
-- Evaluate and visualize performance improvements
-- Apply techniques from industry case studies (like Ramp's transaction categorization)
-
 ### [Simple RAG Application](/notebooks/simple-rag-app.ipynb)
 A step-by-step guide to building and improving a Retrieval-Augmented Generation (RAG) application. This notebook covers:
-- Setting up vector databases for efficient retrieval
 - Implementing effective retrieval strategies
 - Evaluating RAG performance with meaningful metrics
 - Systematically improving retrieval and generation quality
+
+### [Fine-Tuning Embedding Models](/notebooks/finetune-embedding-models.ipynb)
+Learn how to fine-tune embedding models to significantly improve retrieval performance. This notebook demonstrates how to:
+- Fine-tune open-source embedding models using triplet loss
+- Evaluate and visualize performance improvements
+- Apply techniques from industry case studies (like Ramp's transaction categorization)
+
+### [Metadata Filtering](/notebooks/metadata-filtering.ipynb)
+Explore how to enhance retrieval performance by implementing metadata filtering in RAG applications. This notebook covers:
+- Implementing both semantic search and metadata-filtered search approaches
+- Evaluating and comparing approaches using industry-standard metrics
+- Drawing data-driven insights to optimize your own retrieval systems
 
 ## Getting Started
 
