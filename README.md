@@ -19,16 +19,22 @@ A step-by-step guide to building and improving a Retrieval-Augmented Generation 
 - Systematically improving retrieval and generation quality
 
 ### [Fine-Tuning Embedding Models](/notebooks/finetune-embedding-models.ipynb)
-Learn how to fine-tune embedding models to significantly improve retrieval performance. This notebook demonstrates how to:
-- Fine-tune open-source embedding models using triplet loss
-- Evaluate and visualize performance improvements
-- Apply techniques from industry case studies (like Ramp's transaction categorization)
+Learn how to fine-tune embedding models to significantly improve retrieval performance. This notebook covers:
+- Fine-tuning open-source embedding models using triplet loss
+- Evaluating and visualizing performance improvements
+- Applying techniques from industry case studies (like Ramp's transaction categorization)
 
 ### [Metadata Filtering](/notebooks/metadata-filtering.ipynb)
 Explore how to enhance retrieval performance by implementing metadata filtering in RAG applications. This notebook covers:
 - Implementing both semantic search and metadata-filtered search approaches
 - Evaluating and comparing approaches using industry-standard metrics
 - Drawing data-driven insights to optimize your own retrieval systems
+
+### [Evaluating Tool Selection in AI Assistants](/notebooks/tool-calling.ipynb)
+Learn how to measure and improve tool calling capabilities in AI assistants using precision and recall metrics. This notebook covers:
+- Creating a framework for evaluating tool selection decisions
+- Analyzing per-tool performance to identify specific improvement areas
+- Systematically enhancing multi-tool coordination for complex tasks
 
 ## Getting Started
 
